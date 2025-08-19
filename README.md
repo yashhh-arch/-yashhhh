@@ -37,7 +37,7 @@
 **Databases**: MongoDB, MySQL, PostgreSQL, Redis  
 **DevOps**: Docker, Kubernetes, Jenkins, AWS, GCP  
 **AI/ML**: TensorFlow, PyTorch, Pandas, OpenCV, Scikit-learn  
-**Other Tools**: Git, Postman, Figma  
+**Other Tools**: Git,  Figma  
 
 ---
 
